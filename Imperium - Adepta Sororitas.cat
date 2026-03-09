@@ -13130,8 +13130,6 @@ When you intone Hymns of Battle, you can either select one Hymn to apply to unit
       </entryLinks>
     </entryLink>
     <entryLink import="true" name="Celestian Insidiants" hidden="false" id="1f53-51d7-bb92-5d25" type="selectionEntry" targetId="e286-849d-8f74-75e6"/>
-    <entryLink import="true" name="Morvenn Vahl" hidden="false" id="6ed6-32d8-1265-a543" targetId="7188-4d20-8216-c68a" type="selectionEntry"/>
-    <entryLink import="true" name="Morvenn Vahl" hidden="false" id="2fb0-31b3-bc33-a0a4" targetId="7188-4d20-8216-c68a" type="selectionEntry"/>
     <entryLink import="true" name="Pandora Engine" hidden="false" type="selectionEntry" id="9d65-71d8-6feb-a0a6" targetId="5d4b-f212-6fcb-c25c"/>
   </entryLinks>
   <catalogueLinks>
