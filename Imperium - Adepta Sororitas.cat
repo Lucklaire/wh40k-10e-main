@@ -9910,7 +9910,11 @@ If this unit made a Charge move this turn, until the end of the phase, select bo
         </infoGroup>
       </infoGroups>
       <entryLinks>
-        <entryLink import="true" name="Warlord" hidden="false" id="69d7-0b01-a217-9341" type="selectionEntry" targetId="66c6-be4b-a1dc-10d0"/>
+        <entryLink import="true" name="Warlord" hidden="false" id="69d7-0b01-a217-9341" type="selectionEntry" targetId="66c6-be4b-a1dc-10d0">
+          <constraints>
+            <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="e674-6983-ab81-43b3" includeChildSelections="false"/>
+          </constraints>
+        </entryLink>
       </entryLinks>
       <rules>
         <rule name="Supreme Commander" id="75ec-cfb3-1179-a965" hidden="false">
