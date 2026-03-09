@@ -41,6 +41,7 @@
       <comment>Crusade content - White Dwarf</comment>
     </categoryEntry>
     <categoryEntry name="Celestian Insidiants" id="9fe5-ee8a-b4c8-646a" hidden="false"/>
+    <categoryEntry name="Pandora Engine" hidden="false" id="bbe8-60d4-df87-3373"/>
   </categoryEntries>
   <sharedSelectionEntries>
     <selectionEntry type="unit" import="true" name="Aestred Thurga and Agathae Dolan" hidden="false" id="4b94-c22e-84f9-8d32" publicationId="7d85-6d0f-57e0-5dea">
@@ -9868,7 +9869,7 @@ If this unit made a Charge move this turn, until the end of the phase, select bo
         </profile>
       </profiles>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Pandora Engine" hidden="false" id="ca13-5039-3585-fff0">
+    <selectionEntry type="model" import="true" name="Pandora Engine" hidden="false" id="ca13-5039-3585-fff0" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="350"/>
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0"/>
@@ -13129,6 +13130,8 @@ When you intone Hymns of Battle, you can either select one Hymn to apply to unit
       </entryLinks>
     </entryLink>
     <entryLink import="true" name="Celestian Insidiants" hidden="false" id="1f53-51d7-bb92-5d25" type="selectionEntry" targetId="e286-849d-8f74-75e6"/>
+    <entryLink import="true" name="Morvenn Vahl" hidden="false" id="6ed6-32d8-1265-a543" targetId="7188-4d20-8216-c68a" type="selectionEntry"/>
+    <entryLink import="true" name="Morvenn Vahl" hidden="false" id="2fb0-31b3-bc33-a0a4" targetId="7188-4d20-8216-c68a" type="selectionEntry"/>
   </entryLinks>
   <catalogueLinks>
     <catalogueLink type="catalogue" name="Imperium - Imperial Knights - Library" id="f82d-fbeb-8ed2-4284" targetId="1b6d-dc06-5db9-c7d1" importRootEntries="true"/>
