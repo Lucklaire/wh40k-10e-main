@@ -9880,7 +9880,11 @@ If this unit made a Charge move this turn, until the end of the phase, select bo
       <categoryLinks>
         <categoryLink targetId="4f3a-f0f7-6647-348d" id="8885-5e46-53cf-4ab2" primary="false" name="Epic Hero"/>
         <categoryLink targetId="9693-cf84-fe69-37a9" id="fafd-8767-24fc-5e72" primary="false" name="Monster"/>
-        <categoryLink targetId="2d7f-1892-2fd0-e29c" id="00ae-4c5a-4545-7e53" primary="false" name="Captain"/>
+        <categoryLink targetId="9cfd-1c32-585f-7d5c" id="c5b4-1079-4a91-8765" primary="false" name="Character"/>
+        <categoryLink targetId="dbd4-63-af05-998" id="f5f3-d5d7-9415-cc77" primary="false" name="Vehicle"/>
+        <categoryLink targetId="6dda-e157-334d-e93a" id="7131-336c-6519-b8f4" primary="false" name="Walker"/>
+        <categoryLink targetId="aff3-d6a3-2a95-9dc" id="9d7d-a220-c5a9-6649" primary="false" name="Imperium"/>
+        <categoryLink targetId="fd71-afa6-b13b-7fda" id="c5c0-00a1-81f4-0ab1" primary="false" name="Faction: Adepta Sororitas"/>
       </categoryLinks>
       <constraints>
         <constraint type="max" value="1" field="selections" scope="force" shared="true" id="70ab-0a1a-b118-8f35" includeChildSelections="false"/>
