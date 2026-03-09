@@ -9980,6 +9980,7 @@ If this model is at 1 remaining wound, this ability does not work. This ability 
         <selectionEntry type="upgrade" import="true" name="Twin Pandora Buzz-Blades" hidden="false" id="d200-7f57-f59a-18c8">
           <constraints>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="fa6a-1da6-980f-4b1c"/>
+            <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="c858-2aaa-0701-773b" includeChildSelections="false"/>
           </constraints>
           <profiles>
             <profile name="Twin Pandora Buzz-Blades" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="c37a-533f-86b9-1535">
